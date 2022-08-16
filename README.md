@@ -22,7 +22,7 @@
 
 ## Description
 
-A libray of various React Hooks.
+A library of various React hooks.
 
 
 ## Table of Contents 
