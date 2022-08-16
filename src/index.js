@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import UseRefHook1 from './useRef/UseRefHook1';
+import Example1 from './customHooks/fetchAPIData/Example1';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <UseRefHook1 />
+    <Example1 />
   </React.StrictMode>
 );
 
